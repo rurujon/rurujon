@@ -1,4 +1,7 @@
-## Hi there 👋
+## 👋 안녕하세요! 신입 개발자를 꿈꾸는 정윤재의 깃허브입니다.
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourname&show_icons=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourname&layout=compact)
 
 <!--
 **rurujon/rurujon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
